@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Versão Roque
+
 typedef struct {
     char* buffer;
     size_t buffer_length;
